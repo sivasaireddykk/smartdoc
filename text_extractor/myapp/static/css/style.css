@@ -1,0 +1,60 @@
+/* Global styling for body */
+.global {
+  background-color: #f8f9fa;
+  font-family: 'Lucida Handwriting', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navigation bar */
+.navbar {
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  padding-left: 30px;
+}
+
+/* Header styling */
+.header {
+  background-color: #e9ecef;
+  border-bottom: 2px solid #307df6;
+  margin-bottom: 30px;
+}
+
+.header h1 {
+  font-size: 3rem;
+  color: #307df6;
+}
+
+.header p {
+  font-size: 1.2rem;
+  color: #6c757d;
+}
+
+/* Footer styling */
+.footer {
+  background-color: #f1f1f1;
+  padding: 20px 0;
+}
+
+.footer span {
+  color: #6c757d;
+}
+
+/* Form */
+.form-label {
+  font-size: 1.1rem;
+  color: #495057;
+}
+
+.form-control {
+  border-radius: 0.3rem;
+}
+
+button.btn-primary {
+  background-color: #307df6;
+  border: none;
+  transition: background-color 0.3s ease;
+}
+
+button.btn-primary:hover {
+  background-color: #245dc1;
+}
