@@ -1,5 +1,5 @@
 # smartdoc
-In this project, I have created a web-based application for text extraction using basic HTML and CSS for the frontend and Django for the backend. This project uses Tesseract, an open-source OCR engine, to extract text data from PDFs and images.
+Developed a web-based application for text extraction using basic HTML and CSS for the frontend and Django for the backend. This project uses Tesseract, an open-source OCR engine, to extract text data from PDFs and images.
 
 
 ![image](https://github.com/user-attachments/assets/5dc90ac8-ce8f-4326-b691-03a127ff06ec)
